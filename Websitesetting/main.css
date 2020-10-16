@@ -1,0 +1,64 @@
+body
+{
+	background-image:url('file:///Users/manishdoble/Desktop/Websitesetting/images/universe.jpg');
+	background-size: cover;
+	background-attachment:fixed;
+	background-color:black;
+}
+h1
+{
+   text-align:right;
+    font-family: sans-serif;
+    font-size:100px;
+    color: rgba(205, 38, 11, 0.45);     
+}
+#mainmenu{
+    margin-top:-50px;
+    margin-right:-12px;
+    margin-left:-06px;
+    padding-right:0px;
+    padding-left:25px;
+    padding-bottom:-10px;
+    overflow: hidden;
+	background-color:#0f0f0f;
+}
+#mainmenu a{
+    padding-right:37px;
+    padding-top:18px;
+    display: block;
+    text-decoration:none;
+	color:rgba(219, 223, 217, 0.63);
+	font-family:sans-serif;
+    float: left;
+    }
+#mainmenu a:hover{
+   
+    color:red;
+         }
+.content{
+     padding:10px;
+}
+.sticky{
+	position: fixed;
+	top:50px;
+    width: 100%;
+}
+.sticky + .content{
+	padding-top:10px;
+}
+p{
+    padding-right:-20px;
+    padding-left:20px;
+	font-size:25px; 
+	color:white; 
+	font-family:sans-serif;
+}
+#mainmenu .search{
+    padding-top:14px;
+    padding-left:10px;
+    padding-right: 10px;
+    
+} 
+.hp{
+    background-image:url('file:///Users/manishdoble/Desktop/Websitesetting/images/back.jpg')
+}
