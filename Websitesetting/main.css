@@ -1,6 +1,6 @@
 body
 {
-	background-image:url('file:///Users/manishdoble/Desktop/Websitesetting/images/universe.jpg');
+	background-image:url('images/universe.jpg');
 	background-size: cover;
 	background-attachment:fixed;
 	background-color:black;
@@ -60,5 +60,5 @@ p{
     
 } 
 .hp{
-    background-image:url('file:///Users/manishdoble/Desktop/Websitesetting/images/back.jpg')
+    background-image:url('images/back.jpg')
 }
